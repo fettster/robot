@@ -1,11 +1,8 @@
 package org.wintrisstech.erik.iaroc;
 
 import android.os.SystemClock;
-import android.speech.tts.TextToSpeech;
 import ioio.lib.api.IOIO;
 import ioio.lib.api.exception.ConnectionLostException;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import org.wintrisstech.irobot.ioio.IRobotCreateAdapter;
 import org.wintrisstech.irobot.ioio.IRobotCreateInterface;
 import org.wintrisstech.sensors.UltraSonicSensors;
